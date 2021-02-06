@@ -5,5 +5,5 @@ import reactRefresh from '@vitejs/plugin-react-refresh'
  */
 export default {
   plugins: [reactRefresh()],
-  homepage: "https://didimelli.github.io/vite-test/",
+  base: "/vite-test/",
 }
