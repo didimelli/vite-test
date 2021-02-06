@@ -1,6 +1,7 @@
 {
   "name": "vite-react-test",
   "version": "0.0.0",
+  "homepage": "https://didimelli.github.io/vite-test/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
